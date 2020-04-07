@@ -1,0 +1,14 @@
+swagger:
+  title: Bank Account API
+  version: 1.0
+  description: An example Spring Boot microservice that simulates a simple Bank Account API.
+  regex: /api/.*
+  contact:
+    name: Developer Bloke
+    url: http://www.devbloke.me.uk/
+    email: this.will.bounce@devbloke.me.uk
+  license:
+    type: License Type
+    url: http://license.url/
+  tos:
+    url: http://termsofservice.url/
